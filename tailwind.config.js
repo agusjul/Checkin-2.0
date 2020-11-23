@@ -238,6 +238,8 @@ module.exports = {
     divideWidth: theme => theme('borderWidth'),
     fill: {
       current: 'currentColor',
+      secondary: '#1f5b80',
+      
     },
     flex: {
       '1': '1 1 0%',

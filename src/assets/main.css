@@ -14436,6 +14436,10 @@ video {
   fill: currentColor !important;
 }
 
+.fill-secondary {
+  fill: #1f5b80 !important;
+}
+
 .stroke-current {
   stroke: currentColor !important;
 }
@@ -33519,6 +33523,10 @@ video {
     fill: currentColor !important;
   }
 
+  .sm\:fill-secondary {
+    fill: #1f5b80 !important;
+  }
+
   .sm\:stroke-current {
     stroke: currentColor !important;
   }
@@ -52570,6 +52578,10 @@ video {
 
   .md\:fill-current {
     fill: currentColor !important;
+  }
+
+  .md\:fill-secondary {
+    fill: #1f5b80 !important;
   }
 
   .md\:stroke-current {
@@ -71625,6 +71637,10 @@ video {
     fill: currentColor !important;
   }
 
+  .lg\:fill-secondary {
+    fill: #1f5b80 !important;
+  }
+
   .lg\:stroke-current {
     stroke: currentColor !important;
   }
@@ -90676,6 +90692,10 @@ video {
 
   .xl\:fill-current {
     fill: currentColor !important;
+  }
+
+  .xl\:fill-secondary {
+    fill: #1f5b80 !important;
   }
 
   .xl\:stroke-current {
